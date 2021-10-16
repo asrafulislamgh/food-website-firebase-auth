@@ -5,6 +5,7 @@ import Home from "./Pages/Home/Home";
 import Header from "./Pages/Shared/Header/Header";
 import NotFound from "./Pages/NotFound/NotFound";
 import Breakfast from "./Pages/Home/Foods/FoodContainer/Breakfast/Breakfast";
+import Login from "./Pages/Home/Login/Login";
 
 function App() {
   return (
@@ -15,11 +16,14 @@ function App() {
           <Route exact path="/">
             <Home></Home>
           </Route>
-          <Route exact path="/home">
+          <Route path="/home">
             <Home></Home>
           </Route>
-          <Route exact path="/breakfast">
+          <Route path="/breakfast">
             <Breakfast></Breakfast>
+          </Route>
+          <Route path="/login">
+            <Login></Login>
           </Route>
           <Route exact path="*">
             <NotFound></NotFound>

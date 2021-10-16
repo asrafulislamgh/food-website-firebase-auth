@@ -3,6 +3,17 @@
   margin: 0;
   box-sizing: border-box;
 }
+a {
+  text-decoration: none;
+  list-style: none;
+  color: inherit;
+}
+a:hover {
+  color: inherit;
+}
+Link {
+  text-decoration: none;
+}
 .App {
   text-align: center;
 }

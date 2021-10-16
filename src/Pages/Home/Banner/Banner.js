@@ -11,14 +11,14 @@ const Banner = () => {
         <h1 className="display-lg-5 text-center fw-bold">
           The best foods are waiting for you!
         </h1>
-        <InputGroup className="mt-5 ">
+        <InputGroup className="mt-5">
           <FormControl
-            className="rounded"
+            className="rounded py-2"
             placeholder="Search your foods"
             aria-label="Recipient's username"
             aria-describedby="basic-addon2"
           />
-          <Button className="rounded bg-danger px-4" id="button-addon2">
+          <Button className="btn rounded btn-danger px-4" id="button-addon2">
             Search
           </Button>
         </InputGroup>
