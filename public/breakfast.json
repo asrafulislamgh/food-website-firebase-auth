@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Strawberry Cheesecake",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 4.6,
+      "img": "https://i.ibb.co/qYyd4wC/breakfast6.png"
+    },
+    {
+      "name": "Chicken Biriyani ",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 5.8,
+      "img": "https://i.ibb.co/Lv6fh1p/breakfast5.png"
+    },
+    {
+      "name": "Lemon Meringue Pie",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 8.6,
+      "img": "https://i.ibb.co/6D2753G/breakfast4.png"
+    },
+    {
+      "name": "Jolly Time Pop Corn",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 3.5,
+      "img": "https://i.ibb.co/YPx843P/breakfast3.png"
+    },
+    {
+      "name": "Red Velvet Cake",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 4,
+      "img": "https://i.ibb.co/KFhGBSm/breakfast2.png"
+    },
+    {
+      "name": "Falafel Sandwich",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 5.9,
+      "img": "https://i.ibb.co/KVpPSqc/breakfast1.png"
+    }
+  ]

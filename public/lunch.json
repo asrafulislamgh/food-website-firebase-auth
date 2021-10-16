@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Crispy Fish & Chips",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 5.0,
+      "img": "https://i.ibb.co/QHh1qhQ/lunch5.png"
+    },
+    {
+      "name": "German Potato Dumplings",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 4.80,
+      "img": "https://i.ibb.co/5RWvH3p/lunch4.png"
+    },
+    {
+      "name": "Oma's Apfelkuchen",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 6.2,
+      "img": "https://i.ibb.co/1LhFwnR/lunch6.png"
+    },
+    {
+      "name": "Aebleskiver",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 2.5,
+      "img": "https://i.ibb.co/SPk1KNz/lunch1.png"
+    },
+    {
+      "name": "Sparkling Peach Bellinis",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 5.34,
+      "img": "https://i.ibb.co/gM1vL7n/lunch2.png"
+    },
+    {
+      "name": "Italian Pasta Sauce",
+      "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": 6.9,
+      "img": "https://i.ibb.co/dkngRk2/lunch3.png"
+    }
+  ]
