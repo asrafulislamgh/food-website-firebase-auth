@@ -9,12 +9,12 @@ const Breakfast = () => {
       .then((res) => res.json())
       .then((data) => setBreakfast(data));
   }, []);
-  console.log(breakfast);
   return (
     <div className="container">
       <Row xs={1} md={2} lg={3} className="g-4">
         {breakfast.map((food) => (
-          <BreakFastFood food={food}></BreakFastFood>
+          // console.log(food.name);
+          <BreakFastFood key={food.name} food={food}></BreakFastFood>
         ))}
       </Row>
     </div>

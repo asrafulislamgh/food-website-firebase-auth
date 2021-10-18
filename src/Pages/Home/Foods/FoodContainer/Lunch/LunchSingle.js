@@ -3,7 +3,6 @@ import { Button, Card, Col } from "react-bootstrap";
 
 const LunchSingle = ({ food }) => {
   const { name, info, price, img } = food;
-  console.log(food);
   return (
     <div>
       <Col>

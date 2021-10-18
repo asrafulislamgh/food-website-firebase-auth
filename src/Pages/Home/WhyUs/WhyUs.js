@@ -37,7 +37,7 @@ const WhyUs = () => {
                   </Card.Text>
                   <Button variant="link">
                     Read More
-                    <i class="fas fa-arrow-circle-right ms-2"></i>
+                    <i className="fas fa-arrow-circle-right ms-2"></i>
                   </Button>
                 </Card.Body>
               </div>
@@ -51,7 +51,7 @@ const WhyUs = () => {
                   style={{ height: "50px", width: "50px" }}
                   className="bg-danger position-relative rounded-circle ms-3"
                 >
-                  <i class="fas fa-carrot p-3 text-white"></i>
+                  <i className="fas fa-carrot p-3 text-white"></i>
                 </div>
                 <Card.Body>
                   <Card.Title>Fruits Salad</Card.Title>
@@ -62,7 +62,7 @@ const WhyUs = () => {
                   </Card.Text>
                   <Button variant="link">
                     Read More
-                    <i class="fas fa-arrow-circle-right ms-2"></i>
+                    <i className="fas fa-arrow-circle-right ms-2"></i>
                   </Button>
                 </Card.Body>
               </div>
@@ -76,7 +76,7 @@ const WhyUs = () => {
                   style={{ height: "50px", width: "50px" }}
                   className="bg-danger position-relative rounded-circle ms-3"
                 >
-                  <i class="fas fa-seedling text-white p-3"></i>
+                  <i className="fas fa-seedling text-white p-3"></i>
                 </div>
                 <Card.Body>
                   <Card.Title>Vegitable Salad</Card.Title>
@@ -87,7 +87,7 @@ const WhyUs = () => {
                   </Card.Text>
                   <Button variant="link">
                     Read More
-                    <i class="fas fa-arrow-circle-right ms-2"></i>
+                    <i className="fas fa-arrow-circle-right ms-2"></i>
                   </Button>
                 </Card.Body>
               </div>

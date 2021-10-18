@@ -13,7 +13,7 @@ const Lunch = () => {
     <div className="container">
       <Row xs={1} md={2} lg={3} className="g-4">
         {lunch.map((food) => (
-          <LunchSingle food={food}></LunchSingle>
+          <LunchSingle key={food.name} food={food}></LunchSingle>
         ))}
       </Row>
     </div>
